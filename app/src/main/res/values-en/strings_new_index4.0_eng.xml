@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="save">Save</string>
+    <string name="new_location_detected">New Location Detected</string>
+    <string name="new_location_detected_msg1">Do you want to set your location from</string>
+    <string name="to">to</string>
+    <string name="and">and</string>
+    <string name="new_location_detected_msg2">Update Prayer times</string>
+    <string name="auto_settings">Auto Settings</string>
+    <string name="timings">Timings</string>
+    <string name="in">in</string>
+
+    <string name="grid_quran">Quran</string>
+    <string name="grid_salat">Salat</string>
+    <string name="grid_direction">Visual Qibla</string>
+    <string name="grid_hijri">Hijri</string>
+    <string name="grid_mosque">Find Mosques</string>
+    <string name="grid_premium">PREMIUM</string>
+    <string name="grid_community">Community</string>
+    <string name="grid_halal">Halal Finder</string>
+    <string name="grid_names">Allah Names</string>
+    <string name="grid_duas">Duas</string>
+    <string name="grid_settings">Settings</string>
+
+
+    <string name="grid_tasbeeh">Tasbeeh</string>
+    <string name="grid_search">Search Quran</string>
+
+
+
+
+    <string name="notificaion_time">Notification Time</string>
+    <string name="notification_sound">Notification Sound</string>
+    <string name="notificaion">Notification</string>
+    <string name="set_tone">Set Tone</string>
+
+    <string-array name="array_calculation_methods_new">
+        <item>Algerian Minister of Religious Affairs and Wakfs</item>
+        <item>Egyptian General Authority</item>
+        <item>Egyptian General Authority (bis)</item>
+        <item>Fixed Isha Angle Interval</item>
+        <item>Islamic University, Karachi</item>
+        <item>ISNA(Islamic State of North America)</item>
+        <item>JAKIM(Jabatan Kemajuan Islam Malaysia)</item>
+        <item>KEMENAG(Kementerian Agama RI)</item>
+        <item>MUIS(Majlis Ugama Islam Singapura)</item>
+        <item>MWL(Muslim World League)</item>
+        <item>Shia Athna Ashari(Jafari)</item>
+        <item>UAE General Authority of Islamic Affairs</item>
+        <item>Umm Al-Qura, Makkah</item>
+        <item>University of Tehran</item>
+    </string-array>
+
+    <string-array name="array_calculation_methods_angles">
+        <item>Fajr 18.0° / Isha\'a 17.0°</item>
+        <item>Fajr 19.5° / Isha\'a 17.5°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 19.5° / Isha\'a 90 min</item>
+        <item>Fajr 18.0° / Isha\'a 18.0°</item>
+        <item>Fajr 15.0° / Isha\'a 15.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 18.0° / Isha\'a 17.0°</item>
+        <item>Fajr 16.0° / Isha\'a 14.0°</item>
+        <item>Fajr 19.5° / Isha\'a 90 min</item>
+        <item>Fajr 18.5° / Isha\'a 90 min</item>
+        <item>Fajr 17.7° / Isha\'a 15.0°</item>
+    </string-array>
+
+    <integer-array name="array_calculation_methods_index">
+        <item>12</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>11</item>
+        <item>8</item>
+        <item>9</item>
+        <item>3</item>
+        <item>0</item>
+        <item>10</item>
+        <item>4</item>
+        <item>6</item>
+    </integer-array>
+
+    <string name="manual_corrections">Manual Corrections</string>
+    <string name="auto_edit_alarm">Auto Edit Alarm</string>
+    <string name="auto_edit_alarm_option_1">Auto edit with respect to new location</string>
+    <string name="auto_edit_alarm_option_2">Reset edited alarms on every new location</string>
+    <string name="share_timings_message">To know daily salat timings and accurate Qibla Direction, download Qibla Connect® for Free:\n\n https://play.google.com/store/apps/details?id=com.quranreading.qibladirection</string>
+
+    <string name="share_allah_names_message">Prophet PBUH said:\n
+    \"Indeed, Allah has ninety-nine Names, whoever counts them shall enter Paradise.\" Sahih Al-Bukhari – Book 50 Hadith 894 To listen and read all Allah names download Qibla Connect® for Free:\n\n https://play.google.com/store/apps/details?id=com.quranreading.qibladirection</string>
+    <string name="ayah_of_day_dialog">Do you want to enable Ayah of the Day?</string>
+    <string name="text_translation_setting">Text &amp; Translation</string>
+    <string name="text_reset_quran_setting">Reset Quran Setting</string>
+    <string name="dialog_reset_quran_setting">Are you sure to reset Quran Settings?</string>
+    <string name="txt_enter_between_0_83">Enter Number from 0-83</string>
+    <string name="no_surah_found">No Surrah Found</string>
+    <string name="names_99">Allah Names</string>
+    <string name="ayah_message_dialog">Do you want to turn on Ayah of the Day?</string>
+    <string name="phonetic_title">Phonetic Translitration</string>
+    <string name="english_pronounce">English Pronounciation</string>
+    <string name="logout_dialog">Are your sure you want to logout?</string>
+    <string name="logout_title">Logout</string>
+
+
+    <string name="laguage_alert_dialog">It will change the language of your whole app except Community, Hijri and Allah Names. Are you sure you want to select it?</string>
+
+     <string name="txt_font_size">Font Size</string>
+    <string name="txt_read_mode_off">Read Mode Off</string>
+    <string name="txt_read_mode_on">Read Mode On</string>
+    <string name="txt_no_fav">No Favourite Ayah Found</string>
+    <string name="txt_add_fav">Added to Favourite</string>
+    <string name="txt_remove_fav">Removed from Favourite</string>
+    <string name="txt_tap">Tap </string>
+    <string name="txt_tap_text">to turn reading mode ON </string>
+    <string name="txt_reset_quran_setting">Are you sure to reset Quran Settings?</string>
+    <string name="txt_yes">Yes</string>
+    <string name="txt_no">No</string>
+
+    <string name="adhan1_new">Adhan Fajr Madina</string>
+    <string name="adhan2_new">Most Popular Adhan</string>
+    <string name="adhan3_new">Adhan Madina</string>
+    <string name="adhan4_new">Adhan Nasir Al-Qatami</string>
+    <string name="adhan5_new">Adhan Mansur Al-Zahrani</string>
+    <string name="adhan6_new">Mishary Rashid Al-Afsay</string>
+    <string name="adhan7_new">Adhan from Egypt</string>
+
+    <string name="txt_duas_title">Select Translation</string>
+    <string name="txt_urdu">Urdu</string>
+    <string name="txt_eng">English</string>
+</resources>

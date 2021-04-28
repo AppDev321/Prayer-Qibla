@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="save">économiser</string>
+    <string name="new_location_detected">Nouveau lieu détecté</string>
+    <string name="new_location_detected_msg1">Voulez-vous définir votre position à partir de</string>
+    <string name="to">à</string>
+    <string name="and">et</string>
+    <string name="new_location_detected_msg2">Mise à jour de temps de prière</string>
+    <string name="auto_settings">Réglages automatiques</string>
+    <string name="timings">minutage</string>
+    <string name="in">dans</string>
+
+
+    <string name="grid_quran">Quran</string>
+    <string name="grid_salat">Salat</string>
+    <string name="grid_hijri">Hijri</string>
+    <string name="grid_duas">Duas</string>
+    <string name="grid_direction">Visuelle Qibla</string>
+    <string name="grid_mosque">Trouver des mosquées</string>
+    <string name="grid_premium">Prime</string>
+    <string name="grid_community">Communauté</string>
+    <string name="grid_halal">Hilal Trouver</string>
+    <string name="grid_names">Allah Noms</string>
+    <string name="grid_settings">Paramètres</string>
+
+
+    <string name="grid_tasbeeh">Tasbeeh</string>
+    <string name="grid_search">Rechercher dans le Coran</string>
+
+
+
+
+    <string name="notificaion_time">Temps de notification</string>
+    <string name="notification_sound">notification Sonner</string>
+    <string name="notificaion">notification</string>
+    <string name="set_tone">Régler le son</string>
+
+    <string-array name="array_calculation_methods_new">
+        <item>Ministre algérien des Affaires religieuses et du Wakfs</item>
+        <item>Autorité générale égyptienne</item>
+        <item>Autorité générale égyptienne (bis)</item>
+        <item>Fixé Isha angle intervalle</item>
+        <item>Université Islamique, Karachi</item>
+        <item>ISNA(État islamique d\'Amérique du Nord)</item>
+        <item>JAKIM(Jabatan Kemajuan Islam Malaysia)</item>
+        <item>KEMENAG(Kementerian Agama RI)</item>
+        <item>MUIS(Majlis Ugama Islam Singapura)</item>
+        <item>MWL(Ligue Musulmane Mondiale)</item>
+        <item>Shia Athna Ashari(Jafari)</item>
+        <item>EAU Autorité générale des affaires islamiques</item>
+        <item>Umm Al-Qura, Makkah</item>
+        <item>Université de Téhéran</item>
+    </string-array>
+
+    <string-array name="array_calculation_methods_angles">
+        <item>Fajr 18.0° / Isha\'a 17.0°</item>
+        <item>Fajr 19.5° / Isha\'a 17.5°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 19.5° / Isha\'a 90 min</item>
+        <item>Fajr 18.0° / Isha\'a 18.0°</item>
+        <item>Fajr 15.0° / Isha\'a 15.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 20.0° / Isha\'a 18.0°</item>
+        <item>Fajr 18.0° / Isha\'a 17.0°</item>
+        <item>Fajr 16.0° / Isha\'a 14.0°</item>
+        <item>Fajr 19.5° / Isha\'a 90 min</item>
+        <item>Fajr 18.5° / Isha\'a 90 min</item>
+        <item>Fajr 17.7° / Isha\'a 15.0°</item>
+    </string-array>
+
+    <integer-array name="array_calculation_methods_index">
+        <item>12</item>
+        <item>5</item>
+        <item>7</item>
+        <item>10</item>
+        <item>1</item>
+        <item>2</item>
+        <item>11</item>
+        <item>8</item>
+        <item>9</item>
+        <item>3</item>
+        <item>0</item>
+        <item>10</item>
+        <item>4</item>
+        <item>6</item>
+    </integer-array>
+
+    <string name="manual_corrections">Corrections manuelles</string>
+    <string name="auto_edit_alarm">Alarme d\'édition automatique</string>
+    <string name="auto_edit_alarm_option_1">Modification automatique en fonction du nouvel emplacement</string>
+    <string name="auto_edit_alarm_option_2">Réinitialiser les alarmes modifiées sur chaque nouvel emplacement</string>
+    <string name="share_timings_message">our connaître les horaires quotidiens de salah et la précision Qibla Direction, Télécharger gratuitement Qibla Connect®:\n\n https://play.google.com/store/apps/details?id=com.quranreading.qibladirection</string>
+
+    <string name="share_allah_names_message">Prophète PBUH dit:\n
+    \"En effet, Allah a quatre-vingt-dix-neuf Noms, Quiconque les compte entrera dans le Paradis.\" Sahih Al-Bukhari – Livre 50 Hadith 894 Pour écouter et lire les  noms, téléchargez Qibla Connect® gratuitement:\n\n https://play.google.com/store/apps/details?id=com.quranreading.qibladirection</string>
+    <string name="ayah_of_day_dialog">Voulez-vous activer Ayah du jour?</string>
+    <string name="text_translation_setting">Texte &amp; Traduction</string>
+    <string name="text_reset_quran_setting">Réinitialiser les paramètres du coran</string>
+    <string name="dialog_reset_quran_setting">Voulez-vous réinitialiser les paramètres du Coran?</string>
+    <string name="txt_enter_between_0_83">Entrez le numéro de 0-83</string>
+    <string name="no_surah_found">Aucun Surrah trouvé</string>
+    <string name="names_99">Allah noms</string>
+    <string name="ayah_message_dialog">Voulez-vous activer Ayah du jour?</string>
+    <string name="phonetic_title">Translittération phonétique</string>
+    <string name="english_pronounce">Prononciation anglaise</string>
+    <string name="logout_dialog">Etes-vous sûr de vouloir vous déconnecter?</string>
+    <string name="logout_title">se déconnecter</string>
+
+
+    <string name="laguage_alert_dialog">Cela changera la langue de votre application entière, sauf la Communauté , Hijri et Allah noms. Voulez-vous vraiment le sélectionner?</string>
+
+    <string name =  "txt_font_size"> Taille de police </string>
+    <string name =  "txt_read_mode_off"> Mode lecture désactivé </string>
+    <string name =  "txt_read_mode_on"> Mode lecture </string>
+    <string name =  "txt_no_fav"> Aucun favori Ayah Found </string>
+    <string name =  "txt_add_fav"> Ajouté aux favoris </string>
+    <string name =  "txt_remove_fav"> Supprimé du favori </string>
+    <string name =  "txt_tap"> Appuyez sur </string>
+    <string name =  "txt_tap_text"> pour activer le mode lecture </string>
+
+    <string name =  "txt_reset_quran_setting"> Etes-vous sûr de réinitialiser les paramètres du Coran? </string>
+    <string name =  "txt_yes"> Oui </string>
+    <string name =  "txt_no"> Non </string>
+
+    <string name =  "adhan1_new"> Adhan Fajr Madina</string>
+    <string name =  "adhan2_new"> Les plus populaires Adhan</string>
+    <string name =  "adhan3_new"> Adhan Madina</string>
+    <string name =  "adhan4_new"> Adhan Nasir Al-Qatami</string>
+    <string name =  "adhan5_new"> Adhan Mansur Al-Zahrani</string>
+    <string name =  "adhan6_new"> Mishary Rashid Al-Afsay</string>
+    <string name =  "adhan7_new"> Adhan d\'Egypte</string>
+
+
+    <string name = "txt_duas_title"> Sélectionnez Traduction </string>
+    <string name = "txt_urdu"> Urdu </string>
+    <string name = "txt_eng"> English </string>
+
+
+    <string name = "no_topic_found"> ​​Aucun sujet trouvé </string>
+       
+        <string name = "text_search_hint_topic"> Sujets de recherche </string>
+        <string name = "text_search_quran"> Rechercher dans le Coran </string>
+        <string name = "text_common_topic"> Sujets courants </string>
+        <string name = "text_search"> Rechercher </string>
+        <string name = "no_text_search"> Aucun mot trouvé </string>
+        <string name = "no_result_quran"> Aucun mot trouvé dans le Coran </string>
+        <string name = "text_swipe"> Balayer pour afficher Dhiker </string>
+        <string name = "text_reset_title"> Confirmer l\'action </string>
+        <string name = "text_rest_msg"> Voulez-vous réinitialiser le compteur actuel / total? Cela ne peut pas être annulé. </string>
+
+
+    <string name = "txt_auto_setting_off"> Recommandé pour activer les réglages automatiques \'ON \' pour des réglages précis de Salat. </string>
+    <string name  = "location_settings"> Emplacement </string>
+      <string name  = "location_method"> Méthode de détection d\'emplacement </string>
+    <string name  = "dont_show_msg_loc"> Ne plus afficher de message </string>
+
+        <string-array name = "array_location_method">
+
+            <item> Mettre à jour l\'emplacement automatiquement chaque fois que le nouvel emplacement est détecté </item>
+            <item> Ne pas mettre à jour l\'emplacement automatiquement chaque fois que le nouvel emplacement est détecté </item>
+            <item> Toujours demander ma préférence chaque fois qu\'un nouvel emplacement est détecté </item>
+        </string-array>
+    
+</resources>

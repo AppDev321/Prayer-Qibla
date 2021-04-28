@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="activity_calender">Hijri Calendar</string>
+    <string name="activity_community">Community</string>
+    <string name="activity_post">New Request</string>
+    <string name="activity_login">SignUp or Login</string>
+    <string name="activity_event">Events</string>
+    <string name="activity_privacy_policy">Disclaimer and Privacy Policy</string>
+
+    <string name="tab_calander">Calendar</string>
+    <string name="tab_event">Event</string>
+    <string name="tab_converter">Convert</string>
+
+
+    <string name="tab_Prayer">Prayer</string>
+    <string name="tab_mine">Mine</string>
+
+
+    <string name="txt_today">Today</string>
+    <string name="txt_special_events">Special Events</string>
+
+    <string name="txt_sun">Sun</string>
+    <string name="txt_mon">Mon</string>
+    <string name="txt_tue">Tue</string>
+    <string name="txt_wed">Wed</string>
+    <string name="txt_thu">Thu</string>
+    <string name="txt_fri">Fri</string>
+    <string name="txt_sat">Sat</string>
+
+    <string-array name="islamic_month_name">
+
+        <item>Muharram</item>
+        <item>Safar</item>
+        <item>Rabi-ul-Awwal</item>
+        <item>Rabi-ul-Sani</item>
+        <item>Jumad-ul-Awwal</item>
+        <item>Jumad-ul-Thani</item>
+        <item>Rajab</item>
+        <item>Sha\u0027ban</item>
+        <item>Ramadan</item>
+        <item>Shawwal</item>
+        <item>Dhul Qa\u0027ada</item>
+        <item>Dhul Hijja</item>
+    </string-array>
+
+    <string-array name="month_name">
+
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+
+    </string-array>
+
+
+    <string-array name="days_name">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tue</item>
+        <item>Wed</item>
+        <item>Thu</item>
+        <item>Fri</item>
+        <item>Sat</item>
+
+    </string-array>
+
+
+    <!--Rest Api Response Status-->
+    <string name="api_response_success">SUCCESS</string>
+    <string name="api_response_failure">FAILURE</string>
+    <string name="api_response_exception">EXCEPTION</string>
+    <string name="text_read_mode">Reading Mode</string>
+    <string name="text_signup_page">One Last Step!</string>
+
+    <string name="text_signup_page2">Login to</string>
+    <string name="text_signup_page4">your Prayer request.</string>
+
+    <string name="text_policy">By signing up, I agree to Qibla Connect\u00AE  </string>
+    <string name="text_terms_condition"> Terms of Use</string>
+    <string name="text_and_sign">&amp;</string>
+    <string name="text_privacy_policy">Privacy Policy.</string>
+
+
+    <string name="text_hint">Enter your request in English so that other Muslims can understand easily and join you in your prayer.</string>
+
+
+    <string name="title_terms_dialog">Terms and Conditions</string>
+    <string name="text_terms_dialog">Qibla connect\u00AE reserves the right to remove any prayer posted by any user, containing objectionable content. In general we don\'t allow any content that depicts, describes abusive or promotional content or encourages bestiality and intended to be haram or sexually gratifying.</string>
+
+
+    <string-array name="keys_fcm">
+        <item>Events</item>
+        <item>Alerts</item>
+        <item>PlayStore</item>
+
+    </string-array>
+
+
+    <string-array name="event_name">
+        <item>Hijri New Year</item>
+        <item>Ashura Day</item>
+        <item>12 Rabi-ul-Awwal</item>
+        <item>Ramadan Start</item>
+        <item>Lailatul-Qadr</item>
+        <item>Eid-ul-Fitr</item>
+        <item>Hajj Day</item>
+        <item>Eid-ul-Adha</item>
+    </string-array>
+
+
+    <string-array name="islamic_month_detail_link">
+
+        <item><a href="https://en.wikipedia.org/wiki/Muharram">https://en.wikipedia.org/wiki/Muharram</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Ashura">https://en.wikipedia.org/wiki/Ashura</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Mawlid">https://en.wikipedia.org/wiki/Mawlid</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Ramadan_(calendar_month)">https://en.wikipedia.org/wiki/Ramadan_(calendar_month)</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Laylat_al-Qadr">https://en.wikipedia.org/wiki/Laylat_al-Qadr</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Shawwal">https://en.wikipedia.org/wiki/Shawwal</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Dhu_al-Hijjah">https://en.wikipedia.org/wiki/Dhu_al-Hijjah</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Eid_al-Adha">https://en.wikipedia.org/wiki/Eid_al-Adha</a></item>
+
+        <!--<item><a href="https://en.wikipedia.org/wiki/Muharram">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Muharram">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Rabi\u0027_al-awwal">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Ramadan_(calendar_month)">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Ramadan_(calendar_month)">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Shawwal">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Dhu_al-Hijjah">For more information</a></item>
+        <item><a href="https://en.wikipedia.org/wiki/Dhu_al-Hijjah">For more information</a></item>-->
+    </string-array>
+
+
+    <!-- NAvigation TEst Data-->
+
+    <string-array name="eng_chapters">
+        <item>Juz 1</item>
+        <item>Juz 2</item>
+        <item>Juz 3</item>
+        <item>Juz 4</item>
+        <item>Juz 5</item>
+        <item>Juz 6</item>
+        <item>Juz 7</item>
+        <item>Juz 8</item>
+        <item>Juz 9</item>
+        <item>Juz 10</item>
+        <item>Juz 11</item>
+        <item>Juz 12</item>
+        <item>Juz 13</item>
+        <item>Juz 14</item>
+        <item>Juz 15</item>
+        <item>Juz 16</item>
+        <item>Juz 17</item>
+        <item>Juz 18</item>
+        <item>Juz 19</item>
+        <item>Juz 20</item>
+        <item>Juz 21</item>
+        <item>Juz 22</item>
+        <item>Juz 23</item>
+        <item>Juz 24</item>
+        <item>Juz 25</item>
+        <item>Juz 26</item>
+        <item>Juz 27</item>
+        <item>Juz 28</item>
+        <item>Juz 29</item>
+        <item>Juz 30</item>
+    </string-array>
+    <!--
+        <string-array name="eng_chapters">
+            <item>Alif Laam Meem</item>
+            <item>Sayaqulu</item>
+            <item>Tilkal Rasoolo</item>
+            <item>Lan Tanalu</item>
+            <item>Wal Mohsinatu</item>
+            <item>La Yuhibbullahu</item>
+            <item>Waiza Samioo</item>
+            <item>Walau</item>
+            <item>Qalal Malaoo</item>
+            <item>Wa alamu Annamah</item>
+            <item>Ya Tazeroona</item>
+            <item>Wama Min Da\'abbatin</item>
+            <item>Wama Obarriyo</item>
+            <item>Rubama</item>
+            <item>Subhanal Lazi</item>
+            <item>Khala alam</item>
+            <item>Iqtaraba Linnaasi</item>
+            <item>Qadh Aflaha</item>
+            <item>Wa Khalal Lazina</item>
+            <item>Amman Khalakha</item>
+            <item>Otlo Ma Ohia</item>
+            <item>Wamai Yaqnut</item>
+            <item>Wamali</item>
+            <item>Faman Azlamu</item>
+            <item>Ilaihi Uraddu</item>
+            <item>Haam Meem</item>
+            <item>Khala Fama Khadbukum</item>
+            <item>Khad Samiallah</item>
+            <item>Tabarakallazi</item>
+            <item>Amma</item>
+        </string-array>-->
+
+    <string-array name="urdu_chapters">
+        <item> المٓ</item>
+        <item>سیقول</item>
+        <item>تلک الرسل</item>
+        <item>لن تنا لوا</item>
+        <item>والمحصنٰت</item>
+        <item>لا یحب اللہ</item>
+        <item>واذا سمعوا</item>
+        <item>ولو اننا</item>
+        <item>قال الملا</item>
+        <item>وا علموآ</item>
+        <item>یعتذرون</item>
+        <item>وما من دآبّۃ</item>
+        <item>ومآابرئ</item>
+        <item>ربما</item>
+        <item>سبحٰن الذیٓ</item>
+        <item>قال الم</item>
+        <item>اقترب للناس</item>
+        <item>قد افلح</item>
+        <item>وقال الذین</item>
+        <item>امن خلق</item>
+        <item>اتل مآاوحی</item>
+        <item>ومن یقنت</item>
+        <item>وما لی</item>
+        <item>فمن اظلم</item>
+        <item>الیہ یرد</item>
+        <item>حٰم</item>
+        <item>قا ل فما خطبکم</item>
+        <item>قد سمع اللہ</item>
+        <item>تبٰرک الذی</item>
+        <item>عمّ</item>
+    </string-array>
+
+    <string-array name="eng_sign_detail">
+        <item>Compulsory stop – Otherwise meaning is changed</item>
+        <item>Stop – End of a section</item>
+        <item>Should stop – End of a sentence</item>
+        <item>Better to stop</item>
+        <item>Can stop or continue</item>
+        <item>Must continue, can take a breath</item>
+        <item>Must continue, can take a breath</item>
+        <item>Must continue, can take a breath</item>
+        <item>Better NOT to stop</item>
+        <item>Stop at the first or the second but not at both</item>
+        <item>Better to stop but permissible to continue</item>
+        <item>Better to continue but permissible to stop</item>
+        <item>It is better not to stop</item>
+
+    </string-array>
+    <string-array name="urdu_sign_detail">
+        <item>م</item>
+        <item>ع</item>
+        <item>ط</item>
+        <item>قف</item>
+        <item>ج</item>
+        <item>ص</item>
+        <item>صل</item>
+        <item>ز</item>
+        <item>ﻻ</item>
+        <item>؞؞</item>
+        <item>قلے</item>
+        <item>صلے</item>
+        <item>ق</item>
+
+    </string-array>
+
+    <string-array name="allah_name_time">
+        <item>0:00.000</item>
+        <item> 0:11.022</item>
+        <item> 0:13.132</item>
+        <item> 0:14.502</item>
+        <item> 0:16.152</item>
+        <item> 0:17.862</item>
+        <item> 0:19.552</item>
+        <item> 0:20.872</item>
+        <item> 0:22.392</item>
+        <item> 0:24.152</item>
+        <item>0:25.462</item>
+        <item> 0:27.702</item>
+        <item> 0:29.492</item>
+        <item> 0:31.202</item>
+        <item> 0:32.942</item>
+        <item> 0:34.166</item>
+        <item> 0:36.106</item>
+        <item> 0:37.786</item>
+        <item> 0:39.336</item>
+        <item> 0:41.069</item>
+        <item>0:42.699</item>
+        <item> 0:44.829</item>
+        <item> 0:46.449</item>
+        <item> 0:47.928</item>
+        <item> 0:49.738</item>
+        <item> 0:51.038</item>
+        <item> 0:52.028</item>
+        <item> 0:53.628</item>
+        <item> 0:55.368</item>
+        <item> 0:56.222</item>
+        <item>0:57.042</item>
+        <item> 0:58.492</item>
+        <item> 0:59.842</item>
+        <item> 1:01.432</item>
+        <item> 1:02.542</item>
+        <item> 1:04.070</item>
+        <item> 1:05.440</item>
+        <item> 1:07.010</item>
+        <item> 1:08.130</item>
+        <item> 1:09.401</item>
+        <item>1:10.493</item>
+        <item> 1:12.113</item>
+        <item> 1:13.393</item>
+        <item> 1:14.930</item>
+        <item> 1:16.423</item>
+        <item> 1:17.943</item>
+        <item> 1:19.653</item>
+        <item> 1:20.893</item>
+        <item> 1:22.063</item>
+        <item> 1:23.423</item>
+        <item>1:25.689</item>
+        <item> 1:27.029</item>
+        <item> 1:28.079</item>
+        <item> 1:29.339</item>
+        <item> 1:30.999</item>
+        <item> 1:32.149</item>
+        <item> 1:33.779</item>
+        <item> 1:35.009</item>
+        <item> 1:36.255</item>
+        <item> 1:37.185</item>
+        <item>1:38.405</item>
+        <item> 1:39.855</item>
+        <item> 1:41.015</item>
+        <item> 1:42.125</item>
+        <item> 1:43.685</item>
+        <item> 1:45.455</item>
+        <item> 1:47.115</item>
+        <item> 1:48.715</item>
+        <item> 1:48.716</item>
+        <item> 1:49.825</item>
+        <item> 1:51.525</item>
+        <item>1:53.045</item>
+        <item> 1:54.685</item>
+        <item> 1:56.135</item>
+        <item> 1:57.325</item>
+        <item> 1:58.595</item>
+        <item> 2:00.295</item>
+        <item> 2:01.945</item>
+        <item> 2:03.445</item>
+        <item> 2:04.655</item>
+        <item> 2:05.285</item>
+        <item>2:06.995</item>
+        <item> 2:08.555</item>
+        <item> 2:09.871</item>
+        <item> 2:11.031</item>
+        <item> 2:13.611</item>
+        <item> 2:17.031</item>
+        <item> 2:18.196</item>
+        <item> 2:19.836</item>
+        <item> 2:21.156</item>
+        <item> 2:22.406</item>
+        <item>2:24.326</item>
+        <item> 2:28.336</item>
+        <item> 2:29.916</item>
+        <item> 2:31.156</item>
+        <item> 2:32.316</item>
+        <item> 2:33.776</item>
+        <item> 2:35.186</item>
+        <item> 2:36.956</item>
+        <item> 2:38.576</item>
+        <item> 2:40.266</item>
+        <item>3:29.653</item>
+    </string-array>
+        <string name="text_disclaimer">
+        This app is a human effort and it was developed with the best intensions. Any mistake in the content is un deliberate and due to sheer humanness. However, if you notice any mistake or errors please notify us and we will resolve it at the earliest.\n\n\n
+        The text of this app is obtained from Tanzil.net while the audio recitations come from Versebyversequran.com. We do not claim the content or recitation and all the rights to them belong to the original owners.\n\n\n
+        <b>Advertisement banners</b> are provided and filtered by <b>Google Admob</b>, the leading mobile advertisement platform. We apologize for any ad banner which may have offended you or which you believe is not appropriate with content and purpose of this application.\n\n\n
+        <b>Data of \"Find Mosques\" and \"Halal Finder\"</b> is retrieved through Google Maps API. Users of this application are agreeing to be bound by<a href="https://www.google.com/intl/en/policies/terms/"> Google\'s Terms of Services</a> and <a href="https://www.google.com/policies/privacy/">Google Privacy Policy</a>.\n\n\n
+        The<b> text copy of the Quran and its translations </b>are taken from <b>Tanzil.net</b>. All the content is carefully produced, highly verified and continuously monitored by a group of specialists in the Tanzil Project.\nMore info at <a href="http://tanzil.net/trans/">http://tanzil.net/trans/</a>\n\n\n
+        The <b>audio recitation of the Quran recorded by Al-Afasy</b> is considered to be the most soothing and soulful with best of our knowledge, in the public domain.\n\n\n
+        The <b>Adhan</b> audio recordings available in this application are, to the best of our knowledge, in the public domain.\n\n\n
+        The <b>audio recording of the names of Allah (swt)</b> is retrieved from eAlim <b>Technology Limited available on YouTube</b>. More info at <a href="https://www.youtube.com/watch?v=ta_tTZrarE0">https://www.youtube.com/watch?v=ta_tTZrarE0</a>\n\n\n
+        The compilation of supplications (duas) featured in this application are authenticated from sunnah.com. <a href="https://sunnah.com">https://sunnah.com</a>\n\n
+
+        </string>
+
+</resources>
